@@ -1,0 +1,6 @@
+{
+  "name": "StyleHouse Clothing Uganda",
+  "description": "StyleHouse Clothing Uganda catalog & income activation platform with 45-day cycle products, daily earnings in UGX, team referrals, and mobile money wallet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
